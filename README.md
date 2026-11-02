@@ -1,5 +1,4 @@
 # Discover publicly exposed Chromecast
-¯\\_(ツ)\_/¯
 
 ```bash
 #!/bin/bash                                                                                                                                                                                                          #
